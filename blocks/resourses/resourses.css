@@ -1,0 +1,9 @@
+@import url(../section-subtitle/section-subtitle.css);
+@import url(../section-title/section-title.css);
+@import url(./__logo-zone/resourses__logo-zone.css);
+@import url(./__logo/resourses__logo.css);
+.resourses{
+  display: flex;
+  padding-top: 100px;
+  flex-direction: column;
+}
