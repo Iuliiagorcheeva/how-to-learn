@@ -10,5 +10,5 @@
 }
 .feinman__link:hover{
   opacity: .6;
-  transition: opacity 1s linear 0.5s;
+  transition: opacity 0.3s linear 0.3s;
 }
